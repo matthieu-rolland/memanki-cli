@@ -15,6 +15,16 @@ While memrise is awesome for learning new words/things, I always found Anki to b
 I like to use it both, Memrise for learning, and anki for not forgetting with minimal effort.
 Memrise lessons can be found [HERE](https://www.memrise.com/courses/english/).
 
+## Install
+Simple install from npm:
+````
+npm install memanki-cli -g
+````
+Or clone this repository and then from root folder:
+````
+npm install -g
+````
+
 ## Usage
 
 memrise IDs are found in lesson urls, ex: 

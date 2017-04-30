@@ -1,6 +1,6 @@
 {
   "name": "memanki-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI inplementation of MEMANKI: convert memrise lessons to anki decks given a memrise lesson ID",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,10 @@
   },
   "bin" : { 
     "memanki" : "index.js"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/breizoreol/memanki-cli.git"
   },
   "author": "breizoreol",
   "license": "MIT"
