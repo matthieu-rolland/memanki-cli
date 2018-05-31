@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/memanki-cli.png)](https://nodei.co/npm/memanki-cli/)
+
 # MEMANKI-CLI
 
 Builds anki decks from a memrise lesson ID, in command line
