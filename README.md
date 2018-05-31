@@ -1,4 +1,6 @@
 [![NPM](https://nodei.co/npm/memanki-cli.png)](https://nodei.co/npm/memanki-cli/)
+ 
+![npm](https://img.shields.io/npm/dt/memanki-cli.svg)
 
 # MEMANKI-CLI
 
