@@ -1,6 +1,6 @@
 {
   "name": "memanki-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI inplementation of MEMANKI: convert memrise lessons to anki decks given a memrise lesson ID",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "learning"
   ],
   "dependencies" : {
-    "memanki" : "1.0.2",
+    "memanki" : "1.0.3",
     "minimist" : "1.2.0"
   },
   "bin" : { 
